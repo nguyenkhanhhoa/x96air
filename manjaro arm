@@ -1,0 +1,3 @@
+Model: X96air_100
+Image https://github.com/manjaro-arm/am6-plus-images/releases
+/dtbs/amlogic/meson-sm1-x96air.dtb
